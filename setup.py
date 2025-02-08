@@ -23,8 +23,8 @@ setup(
         ]
     },
     author='Foomey',
-    description='An automated OSINT tool for website analysis.',
-    url='https://github.com/f00Vmey',
+    description='Guide for OSINT.',
+    url='https://github.com/f00Vmey/OSINT-Guide',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
