@@ -1,0 +1,58 @@
+Introduction to OSINT Investigations
+
+Open-Source Intelligence (OSINT) is the practice of gathering and analyzing publicly available information from diverse sources to generate actionable insights. It is widely used in cybersecurity, law enforcement, journalism, and private investigations. OSINT helps uncover hidden connections, track digital footprints, and verify facts without intrusive or illegal methods.
+
+How OSINT Works
+
+Define Objectives - Establish a clear goal for the investigation (e.g., identifying an individual, tracking cyber threats, verifying claims).
+
+Information Gathering - Collect data from multiple open sources, including search engines, social media, forums, government databases, and leaked data repositories.
+
+Analysis and Correlation - Cross-reference and analyze the collected data to identify patterns, connections, and anomalies.
+
+Verification - Authenticate information to ensure accuracy and prevent misinformation.
+
+Reporting - Compile findings into a structured report with sources, analysis, and conclusions.
+
+Sources for OSINT
+
+Search Engines & Directories: Google Dorking, Bing, DuckDuckGo, Yandex
+
+Social Media: Facebook, Twitter (X), Instagram, LinkedIn, TikTok, Reddit
+
+People Search & Data Aggregators: Pipl, Spokeo, PeekYou, Whitepages
+
+Domain & Website Research: WHOIS, DNS Dumpster, Shodan, Censys, Wayback Machine
+
+Leaked Data & Breach Dumps: Have I Been Pwned, Dehashed, BreachForums
+
+Public Records & Government Databases: SEC EDGAR, PACER, OpenCorporates, FAA Registry
+
+Geospatial Intelligence (GEOINT): Google Earth, OpenStreetMap, Sentinel Hub
+
+Dark Web & Forums: Tor, I2P, specialized discussion forums
+
+Metadata Extraction: ExifTool, FOCA, Tineye, Google Reverse Image Search
+
+Real-Time Tracking & Monitoring: FlightRadar24, MarineTraffic, ADSB Exchange
+
+Tools for OSINT Investigations
+
+Maltego - Visualization and link analysis
+
+SpiderFoot - Automated OSINT scanning
+
+theHarvester - Email and domain reconnaissance
+
+Recon-ng - Web reconnaissance framework
+
+OSINT Framework - Aggregated tools and methods
+
+Sherlock - Social media username hunting
+
+FOCA - Metadata extraction from documents
+
+Use anonymization tools (e.g., VPNs, Tor) when necessary to protect identity.
+
+
+OSINT is a powerful methodology for uncovering information, but responsible use is crucial to maintain ethical standards and legal compliance. When applied correctly, it provides invaluable intelligence for investigations, security assessments, and research.
