@@ -1,0 +1,49 @@
+
+
+OSINT stands for Open Source Intelligence. It is the ability to find information about a person, organization, or company. This information is almost always gathered from public sources and investigations from social media accounts or websites, to public records and newspapers. 
+You can also use OSINT by looking at the connections the target has. 
+It does not take much to be good at using OSINT, but you must be skilled in investigation and know how to actually use OSINT.
+For example, you are trying to find out information on a Facebook user, so you start with basic information gathering, like finding out their friends, but it's private. 
+In this case, you check their public posts to see who comments and who else is in the photo. You can assume that the people who have commented are friends with the uploader or know the uploader.
+If you want to dig deeper, this is the first method. 
+If you have their full name, you can use a method called Google hacking or Google dorking. 
+For example, you search for a pack of baseball cards, and a list of most likely shopping websites comes up with baseball cards listed. If you want only Amazon sites in that list of sites, you would do a Google search with a command like this:
+
+"Baseball cards site:amazon.com" - site:<website> configures Google to only show you Amazon sites for that search.
+
+Template for this: <your search> site:<site you want to see>
+
+If instead, you don’t want a website like Amazon, but instead a file type, for example, a PDF? Say you are just searching for someone, perhaps by the name Jane Doe. You want to find public records or newspapers tied to them? 
+Well, you could put something like:
+
+"Jane Doe filetype:PDF" to find only PDFs about Jane Doe, but if you want a wider range of information, you can type something like:
+
+"Jane Doe filetype:PDF OR filetype:xlsx OR filetype:docx" — This tells Google to find information tied to Jane Doe that is in PDFs, XLSX files, and DOCX files. 
+This is important because they might contain public records, court records, resumes, and other official documents, etc.
+
+Combining these two commands can be even better if you want more specific info. For example, Jane Doe's university? You would just search for:
+
+"Jane Doe filetype:PDF OR filetype:xlsx OR filetype:docx site:<college/university-site.org.edu>"
+
+If you need more information about Google Dorking, check the GD-commands-&-info.pdf or directly go to https://mega.nz/file/JX8zzBiT#ba63Ccn9mpv9fpb0jxmX-PqRGC4dkD8eF34mpidv7Ts.
+You can also visit The Google Hacking Database (https://www.exploit-db.com/google-hacking-database), press filters, then click "category," and lastly choose anything. Use that as you want. It is not the best website on this list but fairly good.
+
+Facial Recognition:
+The next method of OSINT is facial recognition. Say the target has a picture of themselves on a post or as their profile picture, you can use sites to track them down using facial recognition. A common but very useful website for this is https://pimeyes.com. All you must do is upload your image of your target, for example, Jane Doe, and this website will utilize AI to search for the same person on the internet, allowing you to gather more information on the target.
+If the target has taken a picture of themselves at a place you can't recognize, you can use images.google.com to reverse image search it. Using this image, you must analyze the photos and compare them to find data tied to the photos, such as a title like "San Francisco, Golden Gate Bridge."
+
+If you want to try a different approach, check out https://www.pic2map.com/. This website uses an EXIF data viewer to find more geographical information about a photo. The website says:
+
+"Pic2Map is an online EXIF data viewer with GPS support that allows you to locate and view your photos on a map. Our system utilizes EXIF data, which is available in almost all photos taken with digital cameras, smartphones, and tablets. Even without GPS data, Pic2Map still serves as a simple and elegant online EXIF data viewer, which is short for Exchangeable Image File, a format that is a standard for storing interchange information in digital photography image files using JPEG compression. 
+Depending on the brand and model of the camera, EXIF data includes information such as shutter speed, exposure compensation, F number, ISO speed, flash usage, date and time the image was taken, white balance, auxiliary lenses used, and resolution. Below, you can find a more detailed listing of all data Pic2Map provides. If the recording device has a built-in GPS receiver and geotagging was enabled, it is also possible to extract the coordinates where the image was taken. This data includes, but is not limited to, the latitude, longitude, altitude, and direction information. 
+Pic2Map photo mapper will analyze all this information to pinpoint the location on a map and reverse geocode the coordinates to a detailed address, if possible."
+
+If you have found the target's email address, for example, JaneDoe@example.com, you can conduct a reverse email search on them using a useful site called Epieos. This tool allows you to search for social media accounts tied to an email address.
+It is helpful to know background info about the target. If you don’t know yet, use the methods explained earlier to find out. After that, be sure to use common sense. A programmer is most likely to have an active account on GitHub, and a streamer is most likely to have an active account on a social media platform like Twitch or YouTube.
+More websites to use for searching social media accounts:
+
+https://social-searcher.com
+https://checkusernames.com
+https://ThatsThem.com
+https://inteltechniques.com/
+That’s all for the basics of OSINT.

@@ -1,0 +1,1 @@
+This is a collection of open source guides to OSINT. Use if you want.

@@ -1,0 +1,30 @@
+This part of OSINT is phone number trackings. 
+With online databases you can find information on a phone number.
+
+Always remember to not just one one site but multiple, so you can verify information found.
+
+
+Links
+
+whocalld:
+https://whocalld.com
+
+
+thatsthem:
+https://thatsthem.com
+
+Intel Techniques: 
+https://inteltechniques.com/
+
+OSINT Framework: 
+https://osintframework.com/
+
+PhoneInfoga: 
+https://github.com/sundowndev/phoneinfoga
+
+TruePeopleSearch:
+https://www.truepeoplesearch.com/
+
+OSINT, or Open Source Intelligence, is all about finding and using information that is publicly available to anyone.
+ It involves gathering data from sources like social media, websites, public records, and online forums.
+ By analyzing this information, we can gain insights, investigate people or organizations, and make informed decisions.
