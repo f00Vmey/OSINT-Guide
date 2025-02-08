@@ -10,4 +10,7 @@ guide.
 This project was inspired and used many aspects from An0n Ali.
 His YouTube page is https://www.youtube.com/@an0n_ali.
 
-To set up to use the tools please go to Command prompt and set the directory to the directory when this project is stored a
+To set up to use the tools please go to Command prompt and set the directory to the directory where this project is stored at
+and run ```python setup.py install``` or do ```overveiw.py``` and select option S.
+
+Thank you for using this guide. 
